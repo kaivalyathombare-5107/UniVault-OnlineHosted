@@ -112,3 +112,9 @@ SQLite and local file storage are used automatically when the Supabase environme
 | File storage | Supabase Storage (production) / `static/uploads/` (development) |
 | Hosting | Render |
 | Source control | GitHub |
+
+Created for Python Mini Project
+Contributers: 
+1. Kaivalya Thombare
+2. Sanjeet Pisharody
+3. Tania Kale
